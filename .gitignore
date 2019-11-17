@@ -1,0 +1,3 @@
+# Don't track the .zip, those were just for class submission.
+
+*.zip
